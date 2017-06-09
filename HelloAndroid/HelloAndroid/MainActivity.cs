@@ -30,7 +30,7 @@ namespace HelloAndroid
             };
 
 
-            MobileCenter.Start("3c6f2c4c-21cc-4f14-9598-649112f8d1b4",
+            MobileCenter.Start("667f0dc5-7c80-4a31-a851-78c2fc4abd93",
                    typeof(Analytics), typeof(Crashes));
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
