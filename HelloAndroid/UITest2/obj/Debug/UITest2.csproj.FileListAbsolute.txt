@@ -1,0 +1,10 @@
+C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\UITest2\bin\Debug\UITest2.dll
+C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\UITest2\bin\Debug\UITest2.pdb
+C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\UITest2\bin\Debug\nunit.framework.dll
+C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\UITest2\bin\Debug\Xamarin.UITest.dll
+C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\UITest2\bin\Debug\nunit.framework.xml
+C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\UITest2\bin\Debug\Xamarin.UITest.xml
+C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\UITest2\obj\Debug\UITest2.csprojResolveAssemblyReference.cache
+C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\UITest2\obj\Debug\UITest2.csproj.CoreCompileInputs.cache
+C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\UITest2\obj\Debug\UITest2.dll
+C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\UITest2\obj\Debug\UITest2.pdb
