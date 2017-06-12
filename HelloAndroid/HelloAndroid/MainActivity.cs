@@ -26,17 +26,18 @@ namespace HelloAndroid
                 count++;
                 show.Text = "Hello, Android";
                 say.Text = $"You Clicked {count}";
+
+                if (count > 5)
+                {
+                    Crashes.Enabled = true;
+                    //throw new System.Exception("error:click>5");
+                    Crashes.GenerateTestCrash();
+                }
+
                 // Toast 通知
                 Toast.MakeText(this, $"You Clicked {count}", ToastLength.Short).Show();
             };
 
-
-            if (count > 5)
-            {
-                Crashes.Enabled = true;
-                //throw new System.Exception("error:click>5");
-                Crashes.GenerateTestCrash();
-            }
 
             MobileCenter.Start("667f0dc5-7c80-4a31-a851-78c2fc4abd93",
                    typeof(Analytics), typeof(Crashes), typeof(Distribute));
