@@ -4,6 +4,7 @@ using Android.OS;
 using Microsoft.Azure.Mobile;
 using Microsoft.Azure.Mobile.Analytics;
 using Microsoft.Azure.Mobile.Crashes;
+using Microsoft.Azure.Mobile.Distribute;
 
 namespace HelloAndroid
 {
@@ -38,7 +39,10 @@ namespace HelloAndroid
             }
 
             MobileCenter.Start("667f0dc5-7c80-4a31-a851-78c2fc4abd93",
-                   typeof(Analytics), typeof(Crashes));
+                   typeof(Analytics), typeof(Crashes), typeof(Distribute));
+
+            Analytics.TrackEvent("Click");
+
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
         }
