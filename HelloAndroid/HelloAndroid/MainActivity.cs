@@ -39,6 +39,7 @@ namespace HelloAndroid
             MobileCenter.SetLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
             MobileCenter.Start("d40afa4b-60e3-4ff0-a316-1ba00bbef711",
                     typeof(Analytics), typeof(Crashes));
+            Analytics.TrackEvent("Click");
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
         }
