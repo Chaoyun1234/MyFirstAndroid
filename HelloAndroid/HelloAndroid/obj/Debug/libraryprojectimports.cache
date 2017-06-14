@@ -10,6 +10,8 @@
     <ResolvedResourceDirectory>C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\HelloAndroid\obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Distribute.Android.Bindings\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\HelloAndroid\obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Distribute\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\HelloAndroid\obj\Debug\__library_projects__\Microsoft.Azure.Mobile\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\HelloAndroid\obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Push.Android.Bindings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\HelloAndroid\obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Push\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\HelloAndroid\obj\Debug\__library_projects__\Xamarin.GooglePlayServices.Basement\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
@@ -21,6 +23,8 @@
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Distribute.Android.Bindings\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Distribute\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.Azure.Mobile\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Push.Android.Bindings\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Push\library_project_imports\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
@@ -32,6 +36,8 @@
     <ResolvedResourceDirectoryStamp>C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\HelloAndroid\obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Distribute.Android.Bindings.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\HelloAndroid\obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Distribute.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\HelloAndroid\obj\Debug\__library_projects__\Microsoft.Azure.Mobile.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\HelloAndroid\obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Push.Android.Bindings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\HelloAndroid\obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Push.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\v-chaodo\Source\Repos\MyFirstAndroid3\HelloAndroid\HelloAndroid\obj\Debug\__library_projects__\Xamarin.GooglePlayServices.Basement.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
