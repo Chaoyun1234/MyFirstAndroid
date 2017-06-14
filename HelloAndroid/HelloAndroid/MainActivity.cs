@@ -36,8 +36,8 @@ namespace HelloAndroid
                 }
             };
 
-
-           MobileCenter.Start("667f0dc5-7c80-4a31-a851-78c2fc4abd93",
+            MobileCenter.SetLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
+            MobileCenter.Start("d40afa4b-60e3-4ff0-a316-1ba00bbef711",
                     typeof(Analytics), typeof(Crashes));
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
