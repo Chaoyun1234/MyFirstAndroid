@@ -6,6 +6,7 @@ using Microsoft.Azure.Mobile.Analytics;
 using Microsoft.Azure.Mobile.Crashes;
 using Microsoft.Azure.Mobile.Distribute;
 using Microsoft.Azure.Mobile.Push;
+using Firebase;
 
 namespace HelloAndroid
 {
@@ -13,11 +14,13 @@ namespace HelloAndroid
     public class MainActivity : Activity
     {
         int count = 0;
+
         protected override void OnCreate(Bundle bundle)
         {
+            FirebaseApp.InitializeApp(ApplicationContext);
             MobileCenter.LogLevel = LogLevel.Verbose;
             Push.Enabled = true;
-            MobileCenter.Start("667f0dc5-7c80-4a31-a851-78c2fc4abd93",
+            MobileCenter.Start("fbf92d43-6d5c-46e7-b273-099bbdb2601a",
                    typeof(Analytics), typeof(Crashes), typeof(Distribute), typeof(Push));
             var installid = MobileCenter.InstallId;
 
@@ -77,4 +80,4 @@ namespace HelloAndroid
         }
     }
 }
-
+ 

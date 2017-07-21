@@ -93,6 +93,7 @@ D:\Users\v-chaodo\Source\Repos\MyFirstAndroid\HelloAndroid\HelloAndroid\obj\Debu
 D:\Users\v-chaodo\Source\Repos\MyFirstAndroid\HelloAndroid\HelloAndroid\obj\Debug\uploadflags.txt
 D:\Users\v-chaodo\Source\Repos\MyFirstAndroid\HelloAndroid\HelloAndroid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
 D:\Users\v-chaodo\Source\Repos\MyFirstAndroid\HelloAndroid\HelloAndroid\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
-D:\Users\v-chaodo\Source\Repos\MyFirstAndroid\HelloAndroid\HelloAndroid\obj\Debug\ProcessGoogleServicesJson.stamp
 D:\Users\v-chaodo\Source\Repos\MyFirstAndroid\HelloAndroid\HelloAndroid\bin\Debug\HelloAndroid.dll.mdb
 D:\Users\v-chaodo\Source\Repos\MyFirstAndroid\HelloAndroid\HelloAndroid\obj\Debug\android\assets\HelloAndroid.dll.mdb
+D:\Users\v-chaodo\Source\Repos\MyFirstAndroid\HelloAndroid\HelloAndroid\obj\Debug\HelloAndroid.csprojResolveAssemblyReference.cache
+D:\Users\v-chaodo\Source\Repos\MyFirstAndroid\HelloAndroid\HelloAndroid\obj\Debug\ProcessGoogleServicesJson.stamp
